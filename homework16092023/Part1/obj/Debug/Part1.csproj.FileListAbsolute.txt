@@ -1,0 +1,7 @@
+D:\Code\kfuHomework\homework16092023\Part1\bin\Debug\Part1.exe.config
+D:\Code\kfuHomework\homework16092023\Part1\bin\Debug\Part1.exe
+D:\Code\kfuHomework\homework16092023\Part1\bin\Debug\Part1.pdb
+D:\Code\kfuHomework\homework16092023\Part1\obj\Debug\Part1.csproj.AssemblyReference.cache
+D:\Code\kfuHomework\homework16092023\Part1\obj\Debug\Part1.csproj.CoreCompileInputs.cache
+D:\Code\kfuHomework\homework16092023\Part1\obj\Debug\Part1.exe
+D:\Code\kfuHomework\homework16092023\Part1\obj\Debug\Part1.pdb
